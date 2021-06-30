@@ -1,4 +1,4 @@
-# SimplifiedColors
+# SimplifiedColors (instructions / previews)
 A simple, amazing colored discord theme!
 
 A easy/customizable discord theme with beauitful dark colors! (no light theme version YET)
