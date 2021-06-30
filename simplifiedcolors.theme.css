@@ -1,0 +1,135 @@
+/**
+* @name Simplified Colors
+* @description Theme created by Ashton
+* @version 1.0
+* @author Ashton#0420
+*/
+
+.button-38aScr.lookFilled-1Gx00P.colorBrand-3pXr91.sizeSmall-2cSMqn.grow-q77ONN {
+    background-color: #6b75df;
+}
+
+.previewAvatars-2J1R8v.wrapper-3t9DeA {
+    background-color: #6b75df;
+}
+
+.theme-dark {
+    --background-tertiary: #191b20;
+    --background-secondary: #21242c;
+    --background-primary: #1e2127;
+    --header-secondary: #bec4ce;
+    --interactive-normal: white;
+    --interactive-active: white;
+    --header-primary: white;
+    --text-link: #2b66db;
+    --text-muted: #b6bcc5;
+    --text-normal: #c4c6c7;
+    --background-secondary-alt: #191d25;
+    --scrollbar-auto-thumb: #0a0a0a;
+    --background-floating: #3f424e;
+    --background-accent: #32363c;
+    --channeltextarea-background: #1a1b1d;
+    --scrollbar-thin-thumb: #161719;
+    --background-floating: #1d1e23;
+    --background-accent: #4e4e4e;
+
+}
+
+.peopleColumn-29fq28 {
+    background-color: #1e2127;
+}
+
+.peopleList-3c4jOR:before {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: .5rem;
+    width: 1.25rem;
+}
+
+.container-1CE3eW {
+    background-color: #191d25;
+}
+
+.container-UC8Ug1 {
+    background-color: #191d25;  
+}
+
+.colorStandard-2KCXvj.size16-1P40sf.text-1FOLJS {
+    color: white;
+}
+
+.colorHeaderSecondary-3Sp3Ft.size16-1P40sf.subtitle-Nw1LLR {
+    color: rgb(190, 190, 190);
+}
+
+.title-3w8xhj.base-1x0h_U.size24-RIRrxO {
+    color: white;
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp.footer-1NnaNd {
+    background-color: #191d25; 
+}
+
+.content-1LAB8Z:before {
+    display: none;
+}
+
+
+.footerTitle-2CYZch.base-1x0h_U.size20-17Iy80 {
+    color: white;
+    
+}
+
+@font-face {
+    font-family: Discord;
+    src: url("https://strencher.github.io/BetterDiscordStuff/Discord.otf") format("opentype");
+}
+.typeWindows-1za-n7 {position:relative}
+.wordmark-2iDDfm {
+    display:flex;
+    align-items:center;
+    height:100%;
+    top:-4px;
+    font-size:14px;
+    font-family:'Discord';
+}
+.wordmark-2iDDfm > svg {display:none}
+.wordmark-2iDDfm:after {content:'Simplified Colors (v1.0)'}
+
+.footerButton-ayFTfX.button-38aScr.lookFilled-1Gx00P.colorGrey-2DXtkV.sizeMedium-1AC_Sl.grow-q77ONN {
+    color: white;
+    background-color: rgb(20, 18, 18);
+}
+
+.scroller-1d5FgU.auto-Ge5KZx.scrollerBase-289Jih {
+    background-color: #191d25;  
+}
+
+.modal-1k91nT.root-1gCeng.small-3iVZYw.fullscreenOnMobile-1bD22y {
+    background-color: #191d25;  
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp.footer-1FPmkC {
+    background-color: #191d25;  
+}
+
+.root-1gCeng.small-3iVZYw.fullscreenOnMobile-1bD22y {
+    background-color: #191d25;  
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp {
+    background-color: #191d25;  
+}
+
+.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignCenter-1dQNNs.noWrap-3jynv6.header-1TKi98.separator-2-RRj_ {
+    background-color: #191d25;  
+}
+
+.content-1LAB8Z.thin-1ybCId.scrollerBase-289Jih {
+    background-color: #191d25;  
+}
+
+.perksModalContentWrapper-2HU6uL {
+    background-color: #191d25;
+}
